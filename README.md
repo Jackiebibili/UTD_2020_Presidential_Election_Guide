@@ -1,7 +1,7 @@
 # HTML framework for the page setup.
 
 ## Usage
-DOM functions for paragraph or bullet point insertion into one of the five sections (eligibility, voter registration, early voting, where to vote in person, things to do on the Election Day): 
+DOM functions for paragraph or bullet point insertion into multiple sections including (eligibility, voter registration, early voting, where to vote in person, things to do on the Election Day): 
    ```
    addParagraphInEligibleToVote(str)
    addBulletPointsInEligibleToVote(arr)
